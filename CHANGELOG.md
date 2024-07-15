@@ -1,6 +1,10 @@
 # CHANGELOG
 
+## v0.4.1 (2024-07-15)
 
+### Fix
+
+* fix: add cast for lists ([`46aae30`](https://github.com/beatreichenbach/qt-extensions/commit/46aae3086ef4666e9ac6587f98c59d6be471c3c2))
 
 ## v0.4.0 (2024-06-10)
 
@@ -30,7 +34,6 @@
 
 * test(viewer): remove unused roles from test ([`5a7b21d`](https://github.com/beatreichenbach/qt-extensions/commit/5a7b21d894d5f6bfe54e6fb0c0feb2dac3d7cc71))
 
-
 ## v0.3.0 (2024-05-23)
 
 ### Chore
@@ -55,7 +58,6 @@
 
 * fix(logger): check record validity ([`8eb20ca`](https://github.com/beatreichenbach/qt-extensions/commit/8eb20ca047b7895c0566e425e6da24b6d6deb3b3))
 
-
 ## v0.2.0 (2023-07-02)
 
 ### Feature
@@ -67,7 +69,6 @@
 * fix(editor): connect reset action in tests ([`327967b`](https://github.com/beatreichenbach/qt-extensions/commit/327967b028d1d22b2640efb4115b1004f8323b51))
 
 * fix(scrollarea): make background transparent ([`ff0a3c6`](https://github.com/beatreichenbach/qt-extensions/commit/ff0a3c62a7d9b6f35f7421384a0937527b1eb3e3))
-
 
 ## v0.1.4 (2023-06-19)
 
@@ -83,7 +84,6 @@
 
 * refactor(parameters): cleanup ([`0c74583`](https://github.com/beatreichenbach/qt-extensions/commit/0c74583d0516008c810c13a1c1d11f20af76830e))
 
-
 ## v0.1.3 (2023-06-01)
 
 ### Fix
@@ -91,7 +91,6 @@
 * fix(typeutils): don&#39;t cast existing enums ([`07a8943`](https://github.com/beatreichenbach/qt-extensions/commit/07a8943f267de78371b66547c8e753bf34d6474a))
 
 * fix(viewer): trigger fit to view ([`761fcd7`](https://github.com/beatreichenbach/qt-extensions/commit/761fcd766f996eb3f32ff355d0215fc20327d015))
-
 
 ## v0.1.2 (2023-05-26)
 
@@ -102,7 +101,6 @@
 * fix(viewer): inverted pixel position ([`0b5494a`](https://github.com/beatreichenbach/qt-extensions/commit/0b5494a8ff54251552be79b1b82be204a82b52c1))
 
 * fix(viewer): clean up ([`cd94323`](https://github.com/beatreichenbach/qt-extensions/commit/cd94323be908463508e9cfba5ec20e9900658a13))
-
 
 ## v0.1.1 (2023-05-21)
 
@@ -115,7 +113,6 @@
 ### Style
 
 * style(viewer): fix typos ([`01d2b5c`](https://github.com/beatreichenbach/qt-extensions/commit/01d2b5c0d2223384f39981be816dd59b31d468fe))
-
 
 ## v0.1.0 (2023-05-20)
 
@@ -179,7 +176,6 @@
 
 * notes ([`3853125`](https://github.com/beatreichenbach/qt-extensions/commit/38531259c7c9c3814418263d1dac3952d30594e4))
 
-
 ## v0.0.2 (2023-04-30)
 
 ### Refactor
@@ -189,7 +185,6 @@
 * refactor: cleanup ([`c7aae30`](https://github.com/beatreichenbach/qt-extensions/commit/c7aae309720a0f73db3bf1c19316bf6a711a67e8))
 
 * refactor(box): make title editable ([`94eb4aa`](https://github.com/beatreichenbach/qt-extensions/commit/94eb4aa6ff456c84ca3084552aacb4bf28a5c2ea))
-
 
 ## v0.0.1 (2023-04-28)
 
